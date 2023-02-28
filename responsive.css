@@ -1,0 +1,44 @@
+@media screen and (max-width: 768px){
+    #sideNav {
+        width: 50%;
+    }
+    .banner-text h1{
+        font-size: 44px;
+    }
+    .title-text h1{
+        font-size: 35px;
+    }
+    .features{
+        flex-basis: 100%;
+    }
+    .features-img {
+        flex-basis: 100%;
+    }
+    .features-img img{
+        width: 100%;
+    }
+    .single-service{
+        flex-basis: 100%;
+        margin-bottom: 30px;
+    }
+    
+    .service-desc p{
+        font-size: 12px;
+    }
+    hr{
+        margin: 5px auto;
+    }
+    .single-service:hover .service-desc{
+        bottom: 25% !important;
+    }
+    .testimonial-col{
+        flex-basis: 100%;
+    }
+    .footer-left, .footer-right{
+        flex-basis: 100%;
+        font-size: 14px;
+    }
+    .footer-img{
+        top: 25%;
+    }
+}
