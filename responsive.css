@@ -2,6 +2,10 @@
     #sideNav {
         width: 50%;
     }
+    #menuBtn {
+        right: 20px;
+        top: 20px;
+    }
     .banner-text h1{
         font-size: 44px;
     }
@@ -40,5 +44,6 @@
     }
     .footer-img{
         top: 25%;
+        max-width: 360px;
     }
 }

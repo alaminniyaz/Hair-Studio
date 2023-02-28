@@ -83,8 +83,8 @@ nav ul li a{
     background: #009688;
     text-align: center;
     position: fixed;
-    right: 30px;
-    top: 20px;
+    right: 40px;
+    top: 30px;
     border-radius: 3px;
     z-index: 3;
     cursor: pointer;
