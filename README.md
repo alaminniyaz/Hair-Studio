@@ -1,5 +1,5 @@
 
-# Hair Studio Website 🔥
+# Hair Studio Website
 
 **A Beautiful and Responsive Website for Hair Studio Shop**
 
@@ -8,7 +8,7 @@
 
 
 
-## Section 🎯
+## Sections 🎯
 
 - **Home**
 - **Features**
